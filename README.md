@@ -1,2 +1,2 @@
-# delins300.github.io/main.css
+# delins300.github.io
 Meu site pessoal
