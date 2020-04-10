@@ -71,7 +71,7 @@ main, .content {
     margin: -15px;
 }
 .busca input {
-    background-image: url('../icone-search.png')!important;
+    background-image: url(icone-search.png)!important;
     background-repeat: no-repeat;
     height: 36px;
     margin-top: 10px;
@@ -87,8 +87,10 @@ main, .content {
     position: relative;
 }
 .banner {
-    margin-left: 17%;
-    transform: translateX(-30);
+    background-position: center;
+    margin: 0 auto;
+    width: 100%;
+    height: auto; 
 }
 .texto-destaque p {
     color: black;
@@ -143,14 +145,12 @@ main, .content {
     content: '';
     display: inline-block;
     height: 45px;
-    background-image: url('../seta.png')!important;
+    background-image: url(seta.png)!important;
     background-repeat: no-repeat;
     background-position: center;
     background-color: #ffffff;
 }
 .banner-2 {
-    margin-left: -1%;
-    transform: translateX(-20);
     width: 100%;
     background-position: center;
 }
