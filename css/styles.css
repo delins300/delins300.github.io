@@ -87,10 +87,12 @@ main, .content {
     position: relative;
 }
 .banner {
-    background-position: center;
-    margin: 0 auto;
+    height: 775px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     width: 100%;
-    height: auto; 
+    background-position: center;
+    position: center;
 }
 .texto-destaque p {
     color: black;
@@ -119,12 +121,13 @@ main, .content {
     width: 100%;
     height: auto;
 }
-.bloco-imagen {
-    height: 300px;
-    border: 1px solid #c5c5c5;
-    padding-top: 15px;
-    padding-bottom: 15px;
-    margin-left: 10px;
+.bloco-imagem {
+    height: 550px;
+    padding-top: 0px;
+    padding-bottom: 55px;
+    width: 100%;
+    background-position: center;
+    position: center;
 }
 .bloco-imagem b, p {
     text-align: left;
@@ -148,11 +151,7 @@ main, .content {
     background-image: url(seta.png)!important;
     background-repeat: no-repeat;
     background-position: center;
-    background-color: #ffffff;
-}
-.banner-2 {
-    width: 100%;
-    background-position: center;
+    background-color: #ffffff;s
 }
 .footer b, p, h3 {
     text-align: center;
