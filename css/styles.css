@@ -93,9 +93,7 @@ main, .content {
     padding-left: 322px;
     width: 100%;
     position: center;
-    display: inline-block;
     background-position: center;
-    position: relative;
 }
 .texto-destaque p {
     color: black;
