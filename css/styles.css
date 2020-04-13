@@ -151,7 +151,7 @@ main, .content {
     background-image: url(seta.png)!important;
     background-repeat: no-repeat;
     background-position: center;
-    background-color: #ffffff;s
+    background-color: #ffffff;
 }
 .footer b, p, h3 {
     text-align: center;
@@ -165,11 +165,11 @@ main, .content {
 .footer-2 {
     width: 100%;
     background-color: #252323;
-    height: 215px;
+    height: 220px;
     color: white;
     font-size: 20px;
 }
-blockquote {
+blockquote  {
     padding-top:20px;
     background-color: white;
     border: 5px solid black;
