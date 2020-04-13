@@ -87,13 +87,15 @@ main, .content {
     position: relative;
 }
 .banner {
-    height: 600px;
+    height: 600px!important;
     padding-top: 5px;
     padding-bottom: 10px;
     padding-left: 322px;
     width: 100%;
     position: center;
-    background-position: center;
+    display: inline-block;
+    background-position: center!important;
+    position: relative;
 }
 .texto-destaque p {
     color: black;
